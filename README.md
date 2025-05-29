@@ -3,7 +3,6 @@
 🚀 **Junior Software Engineer at Axians Belgium**  
 🎓 Studied Applied Computer Science at HOGENT  
 📍 Based in Gent, Vlaanderen, België  
-📫 Available for opportunities | 107+ connections
 
 ---
 
@@ -63,9 +62,3 @@ Bachelor's Degree in Electromechanics (2020 – 2022)
 - IBM Z Xplore – Advanced (Dec 2024)  
 
 ---
-
-### ✅ Currently open to new opportunities!
-
-Feel free to [connect](https://github.com/StefanDeMoor) or reach out!
-
--->
